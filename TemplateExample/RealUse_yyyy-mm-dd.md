@@ -1,4 +1,4 @@
-# TIL Template
+# TIL (Today I Learned)
 
 ## 날짜: YYYY-MM-DD
 
