@@ -1,8 +1,8 @@
 # TIL (Today I Learned)
 
-## 날짜: YYYY-MM-DD
+## Date: YYYY-MM-DD
 
-### 데일리 스크럼
+### Daily Scrum
 - [어제 한 일] <br>
   
 - [오늘 할 일] <br>
