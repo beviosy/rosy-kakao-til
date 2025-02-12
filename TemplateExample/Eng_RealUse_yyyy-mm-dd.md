@@ -16,7 +16,7 @@
 - 9am-10am: Daily Scrum
 - 10am-12pm: 
 - 1pm-
-- 상세설명
+- 6pm-After: 자율 학습
 
 #### Lesson: 주제에 대한 설명
 - 상세 내용 1
