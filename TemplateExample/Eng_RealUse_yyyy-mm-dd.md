@@ -13,9 +13,9 @@
 
 ### New things I learned
 #### Today's Timeline
-- 9AM-10AM: Daily Scrum
-- 10AM-12PM: 
-- 1PM-
+- 9am-10am: Daily Scrum
+- 10am-12pm: 
+- 1pm-
 - 상세설명
 
 #### Lesson: 주제에 대한 설명
