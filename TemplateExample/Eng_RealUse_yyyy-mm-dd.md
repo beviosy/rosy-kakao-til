@@ -1,6 +1,6 @@
 # TIL (Today I Learned)
 
-## Date: YYYY-MM-DD
+## Date: YYYY-MM-DD (Day 00)
 
 ### Daily Scrum
 - [What I did Yesterday] <br>
