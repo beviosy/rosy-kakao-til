@@ -8,14 +8,15 @@
 - [What to do Today] <br>
 
 - [Mood Meter] <br>
-  `기분`→
-  <br>`기분`→
+  `기분`→ 
+  <br>`기분`→ 
 
 ### New things I learned
 #### Today's Timeline
-- 상세 내용 1
-- 상세 내용 2
-- 상세 내용 3
+- 9AM-10AM: Daily Scrum
+- 10AM-12PM: 
+- 1PM-
+- 상세설명
 
 #### Lesson: 주제에 대한 설명
 - 상세 내용 1
