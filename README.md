@@ -35,9 +35,34 @@
 **25.02.12** 웹의 구조와 이해 (Internet, 클라이언트/서버, TCP/UDP, 
 3-way Handshake, HTTPS, HTTPS Cache, API, REST API) & 카카오 크램폴린 IDE QnA
 
-**25.02.13** 
+**25.02.13** HTTP 자격증명 헤더, JWT, OAuth
 
 **25.02.14** 딥 다이브
+
+---
+### [Feb 3rd Week, Week 4] : JavaScript (+인강: 웹 응용)
+#### - 자바 스크립트 엔진
+#### - 브라우저 동작 원리
+#### - 이벤트루프
+#### - 모듈 번들링
+#### - SSR / CSR / ISR / SSG
+#### - DOM, CSSOM
+#### - EVENT, Fetch
+
+
+**25.02.17** Cookie, Storage, Session
+
+**25.02.18** WebSocket, 지난 3주차 수업 복습(TCP/UDP, HTTP, REST API, JWT, OAuth)
+
+**25.02.19** 
+
+**25.02.20** 
+
+**25.02.21** 딥 다이브
+
+
+
+
 
 
 ---
@@ -50,3 +75,5 @@
 **yy.mm.dd** 세부 주제 2 작성 (상세 내역 링크)
 
 **yy.mm.dd** 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+
+**yy.mm.dd** 세부 주제 2 작성 (상세 내역 링크)
